@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.pack{
+    width: 300px;
+    height: 250px;
+    margin: 10px 0px;
+}
+
+.autor{
+    float: left;
+}
+
+.autor-text{
+    padding: 50px;
+    padding-left: 500px;
+}
+
+.packs{
+    height: 600px;
+}
